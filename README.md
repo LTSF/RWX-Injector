@@ -1,4 +1,2 @@
 # RWX-Injector
-Şu anlık paylaşmayacağım :( Belki yakında.
-
-for questions tg:@kurwodelp
+another disappointment project... shellcode executing is broken need to fix 
