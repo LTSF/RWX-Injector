@@ -1,2 +1,4 @@
 # RWX-Injector
-another disappointment project... shellcode executing is broken need to fix 
+ shellcode executing is broken need to fix 
+
+(fully pasted from mmap)
